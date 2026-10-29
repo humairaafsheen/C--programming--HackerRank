@@ -1,15 +1,15 @@
-HackerRank C Solutions
+🤖 HackerRank Solutions | AI & ML Student
 
-This repository contains my solutions to C programming problems solved on HackerRank.
+Aspiring AI & ML Engineer passionate about problem-solving, programming, and intelligent systems.
 
-Programs
-Program 1 - Sum & Difference between two numbers
-Program 2 - Functions in C
-Program 3 - For loop in C
-Program 4 - Bitwise operators
-Program 5 - Conditional statement in C
-program 6 - Playing with characters
-program 7 - Sum of digit of five digit numbers
-Language :C
-Platform : HackerRank
-These programs are uploaded for learning and practice.
+This repository contains my HackerRank solutions as I strengthen my programming fundamentals and build a solid foundation for AI and Machine Learning.
+
+🛠️ Tech Stack
+Language: C
+Focus: Problem Solving, Algorithms & Data Structures
+Goal: Building a strong foundation in AI & Machine Learning
+🚀 My Mission
+
+Learn consistently. Code efficiently. Build intelligent solutions.
+
+⭐ one step closer to becoming an AI/ML Engineer.
